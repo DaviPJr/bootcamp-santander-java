@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.sourcePaths": [
+        "exercicios-poo/src",
+        "desafio-poo/src",
+        "primeiros-passos/src/main/java/dio/springboot"
+    ]
+}
