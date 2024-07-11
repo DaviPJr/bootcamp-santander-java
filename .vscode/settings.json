@@ -4,5 +4,6 @@
         "exercicios-poo/src",
         "desafio-poo/src",
         "primeiros-passos/src/main/java/dio/springboot"
-    ]
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
 }
