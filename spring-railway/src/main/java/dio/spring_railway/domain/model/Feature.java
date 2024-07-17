@@ -1,4 +1,8 @@
 package dio.spring_railway.domain.model;
 
-public class Feauture {
+import jakarta.persistence.Entity;
+
+@Entity(name = "tab_feature")
+public class Feature extends BaseItem{
+
 }

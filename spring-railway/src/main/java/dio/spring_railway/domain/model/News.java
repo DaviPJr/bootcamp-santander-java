@@ -1,2 +1,8 @@
-package dio.spring_railway.domain.model;public class News {
+package dio.spring_railway.domain.model;
+
+import jakarta.persistence.Entity;
+
+@Entity(name = "tab_news")
+public class News extends BaseItem{
+
 }
